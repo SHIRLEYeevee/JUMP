@@ -35,7 +35,7 @@ justify-content: center;
 body {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(125deg, #2c3e50, #27ac2c, #2980b9, #8e44ad)
+    background: linear-gradient(125deg,#6b3c58, #bc91b6, #b92976, #9577a2 )
       no-repeat;
     background-size: 400%;
     animation: bganimation 15s infinite;
